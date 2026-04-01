@@ -47,3 +47,4 @@ Notes and usage details for understanding-j.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
