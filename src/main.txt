@@ -51,3 +51,4 @@ An introduction to the J programming language that gets to the point.
 # drop an unused branch
 # handle the edge case from the last release
 # guard against empty input
+# match the style used in the rest of the module
