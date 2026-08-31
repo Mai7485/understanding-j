@@ -85,3 +85,4 @@ Notes and usage details for understanding-j.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- fix a small wording issue
